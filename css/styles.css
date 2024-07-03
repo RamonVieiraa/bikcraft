@@ -4,6 +4,8 @@
 
 
 @import "./global/header.css";
+@import "./global/footer.css";
+
 
 /*Utilidades*/
 @import "./utilidades/components.css";
@@ -21,5 +23,11 @@
 @import "./bicicletas/bicicletas-lista.css";
 
 
+/* Seguros */
+@import "./seguros/seguros.css";
+
+
+/* Termos */
+@import "./termos/termos.css";
 
 
